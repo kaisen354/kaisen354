@@ -24,14 +24,6 @@
 🚀 I enjoy building **scalable web applications**, **AI-powered products**, and **distributed backend systems** that solve real-world problems. My interests span modern web technologies, system design, developer tools, cloud-native architectures, and intelligent agentic workflows powered by Large Language Models.
 Beyond tech, you'll often find me playing basketball 🏀, pushing my limits in the gym 💪, exploring startup ideas 🚀, or vibing with friends.
 
-🏆 Highlights:
-- National Finalist — UIDAI Data Hackathon 2026 (Top 12 out of 9000+ teams)
-- National Finalist — Code for Purpose 2026 (Top 10 out of 5376 teams)
-- ET AI Hackathon 2026 Certificate of Excellence
-- Prime Minister’s Scholarship Scheme (PMSS) Recipient
-- Solved 800+ DSA Problems
-- LeetCode Knight (1900+) | Codeforces Pupil (1360)
-
 🌱 Currently learning **Advanced Backend Engineering, Distributed Systems, AI Infrastructure, System Design, and Cloud Technologies.**
 
 💼 Open to collaborations, internship opportunities, hackathons, and exciting projects.
