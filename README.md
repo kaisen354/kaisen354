@@ -120,19 +120,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=kaisen354&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaisen354&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisen354&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
----
 
 
 # 📈 Contribution Graph
