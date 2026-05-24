@@ -24,7 +24,7 @@
 - ET AI Hackathon 2026 Certificate of Excellence
 - Prime Minister’s Scholarship Scheme (PMSS) Recipient
 - Solved 800+ DSA Problems
-- LeetCode Knight (1900+) | Codeforces Specialist (1404)
+- LeetCode Knight (1900+) | Codeforces Pupil (1360)
 
 🌱 Currently learning **Advanced Backend Engineering, Distributed Systems, AI Infrastructure, System Design, and Cloud Technologies.**
 
@@ -52,7 +52,9 @@
 
 ---
 # 🏆 Achievements
-
+<div align="center">
+  <img src="./Ninja%20Scroll%20Animation%20GIF.gif" width="600" alt="Anime GIF">
+</div>
 🥇 **National Finalist – UIDAI Data Hackathon 2026**  
 ↳ Top **12** out of **9,000+** participants nationwide
 
