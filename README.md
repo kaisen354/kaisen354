@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=A855F7&center=false&vCenter=false&width=900&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+Systems+Engineer+%F0%9F%A4%96;Backend+Engineer+%E2%9A%99%EF%B8%8F;Competitive+Programmer+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&color=A855F7&center=false&vCenter=false&width=1000&lines=Full-Stack+Developer+%E2%80%A2+AI+Integration+%E2%80%A2+Backend+Engineer+%E2%80%A2+Competitive+Programmer" alt="Typing SVG" />
 
 <p align="left">
   <a href="mailto:aviral13705@gmail.com">
