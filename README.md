@@ -71,56 +71,26 @@
 💻 **Competitive Programming**  
 ↳ Solved **800+ DSA problems** across LeetCode, Codeforces, and other platforms
 
-# 💻 Tech Stack
+# ⚡ Core Technologies
 
-### Languages
-![C](https://skillicons.dev/icons?i=c)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![Go](https://skillicons.dev/icons?i=go)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,go,python,react,vite,tailwind,nodejs,express,fastapi" />
+</p>
 
-### Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![Vite](https://skillicons.dev/icons?i=vite)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,firebase,supabase,aws,docker,kubernetes" />
+</p>
 
-### Backend
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
-![Redis](https://skillicons.dev/icons?i=redis)
-![Nginx](https://skillicons.dev/icons?i=nginx)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,rabbitmq,nginx" />
+</p>
 
-### Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Supabase](https://skillicons.dev/icons?i=supabase)
+**🤖 AI & LLMs**
 
-### Cloud & DevOps
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-
-### AI & Data
-![Python](https://skillicons.dev/icons?i=python)
-![Pandas](https://skillicons.dev/icons?i=python)
-![NumPy](https://skillicons.dev/icons?i=python)
-
-### Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
-
----
-
-
+![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-green?style=flat-square)
+![Gemini API](https://img.shields.io/badge/Gemini_API-purple?style=flat-square)
 
 # 📈 Contribution Graph
 
